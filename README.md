@@ -2,13 +2,13 @@
 
 LUE TEHTÄVÄNANTO HUOLELLA!
 
-Tehtävä (2p): 
+Tehtävä (10p): 
 
 1. Luo Android sovellus, joka sisältää ainakin:
     * 2 Fragmenttia:
       * Lista- tai ruudukkonäkymä, jossa on klikattavia jäseniä (yli 2 kpl).
       * Yksityiskohtainen näkymä, jossa on lisätietoa klikatusta listan tai ruudukon jäsenestä.
-    * Room-tietokanta (+1p) tai SharedPreferences-tyyppinen yksinkertaisempi tiedon tallennusrakenne. 
+    * Room-tietokanta (bonus +5p) tai SharedPreferences-tyyppinen yksinkertaisempi tiedon tallennusrakenne. 
     * Yhteensä sovellus sisältää ainakin seuraavat **uniikit** komponentit:
       * 2 TextView-komponenttia.
       * 1 ImageView-komponentti, jonka sisältö haetaan Resources kansiosta esimerkin mukaan.
@@ -29,7 +29,7 @@ Tehtävä (2p):
 
 
 Puuttuvista ominaisuuksista seuraavat rangaistukset:
-*  -1p jos kaikkia vaadittuja komponentteja ei löydy
-*  -1p jos git commitit puuttuu
-*  -1p jos näyttökuva puuttuu
-*  -0.5p jos ohjelmassa on suorituksen estävä ongelma
+*  -5p jos kaikkia vaadittuja komponentteja ei löydy
+*  -5p jos git commitit puuttuu
+*  -5p jos näyttökuva puuttuu
+*  -2.5p jos ohjelmassa on suorituksen estävä ongelma
